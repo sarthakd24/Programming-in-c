@@ -1,2 +1,2 @@
-# Programming-in-c
-programs and codes of c
+# Program in C 
+#100daysofcodes
