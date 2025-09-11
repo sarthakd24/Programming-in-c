@@ -1,2 +1,2 @@
-# Program in C 
+#100Daysofcodes
 #100daysofcodes
